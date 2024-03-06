@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+We use scaffold to generate the Users and Microposts
+We did database migrates
+We Wrote validates for users and microposts
+Then run the code 
